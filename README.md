@@ -8,17 +8,18 @@ It focuses on building a simple, structured solution that combines data analysis
 ---
 
 ## Tech Stack
-- Python (Pandas, NumPy, Scikit-learn)  
+- Python (Pandas, NumPy, Scikit-learn)
+- Data Visualization (Matplotlib, Seaborn) 
 - Power BI  
 - Jupyter Notebook  
 
 ---
 
 ## Key Highlights
-- Identified seasonal sales trends (peak during Nov–Dec)  
-- Built a forecasting model for 30–60 day revenue prediction  
-- Analyzed performance across regions and product categories  
-- Delivered actionable business recommendations  
+- Identified seasonal sales patterns with peak demand during specific periods.  
+- Developed a time-series forecasting solution for next 30-day revenue prediction.  
+- Analyzed sales performance across regions and product categories. 
+- Generated actionable business insights to support decision-making.  
 
 ---
 
