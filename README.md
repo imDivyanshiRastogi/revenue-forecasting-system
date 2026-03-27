@@ -28,7 +28,7 @@ It focuses on building a simple, structured solution that combines data analysis
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - `data/` → Dataset  
 - `notebooks/` → Analysis & modeling  
 - `outputs/` → Forecast results  
